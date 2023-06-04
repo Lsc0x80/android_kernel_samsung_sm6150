@@ -259,4 +259,8 @@ source "drivers/security/samsung/tzic/Kconfig"
 
 source "drivers/spu_verify/Kconfig"
 
+#lsc0x80 KernelSU
+
+source "drivers/kernelsu/Kconfig"
+
 endmenu
